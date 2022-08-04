@@ -1,0 +1,6 @@
+npm init -y
+npm i webpack babel-loader @babel/preset-react @babel/core babel-preset-react html-webpack-plugin webpack-dev-server css-loader style-loader @babel/plugin-proposal-class-properties webpack-cli -D && npm i react react-dom -S
+create src folder and index.js file
+create index.html file
+create App.js
+create .babelrc and webpack.config.js
